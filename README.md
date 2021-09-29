@@ -1,0 +1,1 @@
+This project was a learning exercise in which I followed along a tutorial on Youtube by WebDevSimplified. The code in this repository matches the code from the tutorial and is not my original work. The purpose of this project was to learn and practice new technologies in Web Development such as Node.js and Express.
